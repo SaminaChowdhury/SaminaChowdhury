@@ -1,5 +1,4 @@
-### Hi there 👋, This is Samina Chowdhury
-#### Front-end Developer| Competitive Programmer
+
 ![Front-end Developer| Competitive Programmer](https://scontent.fdac3-1.fna.fbcdn.net/v/t39.30808-6/297700750_171160712148970_5400014951062799321_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHDbEBXgbFS4U7aOr3U_XLO5IOL3JjXewbkg4vcmNd7BsctTay-52sGiIn6_Gju1UhfRaOpI8Z8W6VvuRJNsCqU&_nc_ohc=BQI5nCQv1j4AX8yW5Xg&_nc_zt=23&_nc_ht=scontent.fdac3-1.fna&oh=00_AT-ATCbGz3udwMtE-s1SYnjP12MKfh3IRrITbX47NsdaXw&oe=62F59E91)
 
 
