@@ -13,8 +13,6 @@ Skills: HTML / CSS / Bootstrap / jQuery / WordPress / SASS / Tailwind CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/SaminaChowdhury)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/SaminaChowdhury)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/SaminaChowdhury)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/SaminaChowdhury&show_icons=true)  
