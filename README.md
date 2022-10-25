@@ -1,8 +1,8 @@
 ### Hi there 👋, This is Samina Chowdhury
 
 #### Front-end Developer| Competitive Programmer
-![Front-end Developer| Competitive Programmer]
-(https://pbs.twimg.com/profile_banners/1556873861777350656/1662314910/1080x360)
+
+![Front-end Developer| Competitive Programmer](https://pbs.twimg.com/profile_banners/1556873861777350656/1662314910/1080x360)
 
 
 Skills: HTML / CSS / Bootstrap / jQuery / WordPress / SASS / Tailwind CSS/React.js
