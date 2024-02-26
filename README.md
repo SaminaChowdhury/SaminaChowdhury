@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Samina Chowdhury
 
-#### Front-end Developer| Competitive Programmer
+#### Web Developer| Competitive Programmer
 
 ![Front-end Developer| Competitive Programmer](https://pbs.twimg.com/profile_banners/1556873861777350656/1662314910/1080x360)
 
