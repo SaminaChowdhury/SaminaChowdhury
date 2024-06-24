@@ -5,7 +5,6 @@
 
 
 
-Skills: HTML / CSS / Bootstrap / jQuery / WordPress / SASS / Tailwind CSS/React.js
 
 
 
