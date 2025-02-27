@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Samina Chowdhury
 
-#### Aspiring Software Developer| Competitive Programmer
+#### Developer| Competitive Programmer
 
 
 
