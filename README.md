@@ -5,7 +5,7 @@
 
 
 
- [GitHub](https://github.com/SaminaChowdhury) [Codeforces](https://codeforces.com/profile/Sloan-SaminaC)  [CodeChef](https://www.codechef.com/users/seraphic24)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SaminaChowdhury) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Sloan-SaminaC) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/seraphic24)  
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
